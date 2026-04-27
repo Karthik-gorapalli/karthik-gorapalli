@@ -1,7 +1,5 @@
-[![MasterHead](https://www.google.com/imgres?q=data%20scientise%20banner%20iamges&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F001%2F759%2F768%2Fnon_2x%2Fdata-scientist-word-banner-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F1759768-data-scientist-word-banner&docid=fA6aTmoySpLH4M&tbnid=cXyIN06WxE5ykM&vet=12ahUKEwi1spSKnI6UAxW1UGwGHYClALAQnPAOegQIHhAB..i&w=2646&h=980&hcb=2&ved=2ahUKEwi1spSKnI6UAxW1UGwGHYClALAQnPAOegQIHhAB)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">Turning Numbers into Superpowers</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=data%20scientist%20gif&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F667460ccc43a88651a3236c3%2F66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%252520the%252520data%252520(1).gif&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&docid=xLW_H5EqWMOzQM&tbnid=LdF0RB6zYZ8nuM&vet=12ahUKEwj7vZXOmo6UAxV1TmwGHfi_I6oQnPAOegQIGBAB..i&w=500&h=500&hcb=2&ved=2ahUKEwj7vZXOmo6UAxV1TmwGHfi_I6oQnPAOegQIGBAB")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-gorapalli&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-gorapalli" /> </p>
 
