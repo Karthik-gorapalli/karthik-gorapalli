@@ -1,9 +1,7 @@
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDF4bXI1d2tvZTZrNTNsNjludXVydXZtZmd1eHU5azViM2Nteno4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7c8QeB0VMddFOuu4iR/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">Turning Numbers into Superpowers</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-gorapalli&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-gorapalli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-gorapalli" alt="karthik-gorapalli" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFrb3BpajhhMzFkemJiYnBjbW5qYTh2NHpic2M4cHVjODl5Nm0xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 - 🔭 I’m currently working on **Transformer Architecture**
 
