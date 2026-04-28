@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDF4bXI1d2tvZTZrNTNsNjludXVydXZtZmd1eHU5azViM2Nteno4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7c8QeB0VMddFOuu4iR/giphy.gif" width="100%; height:300px; object-fit:cover;">
+  <img src="https://i.postimg.cc/4NfJSCXB/data-scientist-word-banner-vector.jpg">
 </p>
 
 <h1 align="center">Hi 👋, I'm Karthik</h1>
