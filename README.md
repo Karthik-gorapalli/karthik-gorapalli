@@ -29,6 +29,9 @@
   <a href="https://kaggle.com/gorapallikarthik" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+  <a href="https://karthik-gorapalli.carrd.co/"_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F70707?style=for-the-badge&logo=Portfolio&logoColor=white"/>
+  </a>
 
 </p>
 
